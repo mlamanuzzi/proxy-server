@@ -17,5 +17,5 @@ Completed:
 * [] Optional: Supports HTTPS
 * [] Optional: `-h` argument prints CLI API
 
-![proxy-server.gif] 
+![GIF Walkthrough](proxy-server.gif "Proxy Server Walkthrough")
  
